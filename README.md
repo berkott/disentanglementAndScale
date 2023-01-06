@@ -1,1 +1,5 @@
-# disentanglementAndScale
+# Disentanglement And Scale
+
+We explore the field of unsupervised disentanglement, which aims to disentangle underlying factors of variations in representations in hopes that this creates more useful representations in models. Disentanglement has many different interpretations, so we start by explaining a probabilistic and a symmetry-based definition of disentanglement. We then give an overview of two influential methods in the field, namely β-VAE and GeoManCEr. Additionally, we describe two quantitative disentanglement metrics, SAP and MIG. We finish with some experiments analyzing how the scale of models impacts disentanglement and discuss future directions in the field.
+
+We have added our 10 page [report](https://github.com/berkott/disentanglementAndScale/blob/master/unsupervisedDisentanglementLiteratureReviewAndExplorationWithScale.pdf) and 8 page group theory/differential geometry [math notes](https://github.com/berkott/disentanglementAndScale/blob/master/unsupervisedDisentanglementMathNotes.pdf) to the repository.
